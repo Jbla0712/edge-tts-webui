@@ -2,8 +2,6 @@
 
 `edge-tts-webui` 
 
-![](Snipaste.png)
-
 ## 
 
     pip install edge-tts
